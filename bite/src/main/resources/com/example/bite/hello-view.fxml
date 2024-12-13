@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox alignment="CENTER" spacing="10" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.bite.HelloController">
+    <padding>
+        <Insets bottom="10" left="10" right="10" top="10"/>
+    </padding>
+
+    <Button fx:id="refreshButton" text="Refresh Data"/>
+
+    <TabPane fx:id="mainTabPane" VBox.vgrow="ALWAYS">
+        <Tab text="Menu" closable="false">
+            <VBox spacing="10">
+                <Label text="Menu Items" style="-fx-font-size: 20; -fx-font-weight: bold"/>
+                <TableView fx:id="menuTable" VBox.vgrow="ALWAYS">
+                    <columns>
+                        <TableColumn fx:id="nameColumn" text="Item Name" prefWidth="150"/>
+                        <TableColumn fx:id="categoryColumn" text="Category" prefWidth="100"/>
+                        <TableColumn fx:id="priceColumn" text="Price ($)" prefWidth="100"/>
+                        <TableColumn fx:id="availabilityColumn" text="Availability" prefWidth="100"/>
+                    </columns>
+                </TableView>
+            </VBox>
+        </Tab>
+        <Tab text="Pending Orders" closable="false">
+            <VBox spacing="10">
+                <Label text="Pending Orders" style="-fx-font-size: 20; -fx-font-weight: bold"/>
+                <TableView fx:id="ordersTable" VBox.vgrow="ALWAYS">
+                    <columns>
+                        <TableColumn fx:id="orderIdColumn" text="Order ID" prefWidth="80"/>
+                        <TableColumn fx:id="statusColumn" text="Status" prefWidth="100"/>
+                        <TableColumn fx:id="customerColumn" text="Customer Type" prefWidth="100"/>
+                        <TableColumn fx:id="locationColumn" text="Location" prefWidth="150"/>
+                        <TableColumn fx:id="itemsColumn" text="Items" prefWidth="200"/>
+                    </columns>
+                </TableView>
+            </VBox>
+        </Tab>
+    </TabPane>
+</VBox>

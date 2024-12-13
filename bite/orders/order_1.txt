@@ -1,0 +1,11 @@
+OrderID:1
+Status:Order Received
+CustomerType:VIP
+Hostel:girl hostel
+RoomNo:403
+TotalAmount:96.30000000000001
+Items:
+Ramen,4,13.99
+Nachos,3,5.49
+Coffee,3,2.99
+Water,10,1.49

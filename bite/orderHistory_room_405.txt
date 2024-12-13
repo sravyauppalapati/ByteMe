@@ -1,0 +1,11 @@
+=== Order #1 ===
+Customer Type: VIP
+Hostel: girl hostel
+Items ordered:
+- 4x Mojito ($4.99 each)
+- 8x Ramen ($13.99 each)
+- 3x Iced Tea ($2.49 each)
+- 4x Water ($1.49 each)
+Total Amount: $145.31
+----------------------------------------
+

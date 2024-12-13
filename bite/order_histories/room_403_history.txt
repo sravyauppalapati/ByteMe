@@ -1,0 +1,12 @@
+
+=== Order #1 ===
+Date: 2024-11-27 23:50:51
+Customer Type: VIP
+Hostel: girl hostel
+Status: Order Received
+
+Ordered Items:
+3x Ramen - $13.99 each (Total: $41.97)
+
+Total Amount: $41.97
+----------------------------------------

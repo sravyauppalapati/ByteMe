@@ -1,0 +1,4 @@
+Ramen,4,13.99
+Nachos,3,5.49
+Coffee,3,2.99
+Water,10,1.49

@@ -1,0 +1,47 @@
+=== Order #1 ===
+Customer Type: Regular
+Hostel: girl hostel
+Items ordered:
+- 5x Ramen ($13.99 each)
+Total Amount: $69.95
+----------------------------------------
+
+=== Order #1 ===
+Customer Type: VIP
+Hostel: girl hostel
+Items ordered:
+- 8x Ramen ($13.99 each)
+Total Amount: $111.92
+----------------------------------------
+
+=== Order #1 ===
+Customer Type: VIP
+Hostel: girl hostel
+Items ordered:
+- 8x Ramen ($13.99 each)
+- 4x Water ($1.49 each)
+Total Amount: $117.88
+----------------------------------------
+
+=== Order #1 ===
+Customer Type: VIP
+Hostel: girl hostel
+Items ordered:
+- 4x Ramen ($13.99 each)
+- 3x Nachos ($5.49 each)
+- 3x Coffee ($2.99 each)
+- 6x Water ($1.49 each)
+Total Amount: $90.34
+----------------------------------------
+
+=== Order #1 ===
+Customer Type: VIP
+Hostel: girl hostel
+Items ordered:
+- 4x Ramen ($13.99 each)
+- 3x Nachos ($5.49 each)
+- 3x Coffee ($2.99 each)
+- 10x Water ($1.49 each)
+Total Amount: $96.30
+----------------------------------------
+
